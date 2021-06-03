@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act of the Committe of Estates of Parliament: for prorogating the monethly maintenance for the four moneths of October, November, and December 1648. and January  1649. And for the proportionall retention of the annual-rents during that time.</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05219</idno><idno type="EEBO-CITATION">53299238</idno>
+  <idno type="VID">179975</idno>
+  <idno type="EEBO-PROQUEST">2240862665</idno>
+  
+            <idno type="STC">Wing S1133</idno>
+            <idno type="STC">ESTC R183943</idno>
+            <idno type="OCLC">53299238</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05219)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179975)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2809:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act of the Committe of Estates of Parliament: for prorogating the monethly maintenance for the four moneths of October, November, and December 1648. and January  1649. And for the proportionall retention of the annual-rents during that time.</title>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>[2], 3, 6-7, 6-10 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages 4 and 5 incorrectly labeled 6 and 7.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  Scotland --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179975:1"/>
+            <p>ACT OF THE COMMITTEE OF ESTATES OF PARLIAMENT: For prorogating the monethly mainte<g ref="char:EOLhyphen"/>nance for the four moneths of <hi>October, November,</hi> and <hi>December</hi> 1648. and <hi>January</hi> 1649. AND <hi>For the proportionall Retention of the Annual-rents during that time At</hi> EDINBURGH 18. <hi>August</hi> 1648.</p>
+            <p>Printed at EDINBURGH by <hi>Evan Tyler,</hi> Printer to the KINGS most Excellent MAJESTY. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:179975:2"/>
+            <pb n="1" facs="tcp:179975:2"/>
+            <head>ACT OF THE <hi>Committee of Estates of Parliament,</hi> For Prorogating the monethly mainte<g ref="char:EOLhyphen"/>nance, for the four Moneths of <hi>October, November,</hi> and <hi>December,</hi> 1648. and <hi>January</hi> 1649. And for the proportionall Retention of the Annuall Rents during that time.</head>
+            <opener>
+               <dateline>Edinburgh, <date>
+                     <hi>18.</hi> August, <hi>1648.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as the Committee of Estates, considering how necessary it is that the Prince his Highnesse, at his coming to this Kingdom be attended with all Ho<g ref="char:EOLhyphen"/>nour and respect: And that the safety and peace of the Kingdom be provided for, and secured, against all invasion and trouble from the Sectaries now in Armes in <hi>England,</hi> and their favourers and adherents in both Kingdoms: Have gi<g ref="char:EOLhyphen"/>ven order for a new Levy of Horse through the Kingdom. And that they may be raised with the greater ease to the Kingdom, and entertained the more orderly whiles they are within the same; And also that moneys may be brought
+<pb n="2" facs="tcp:179975:3"/>in for the dispatch of such other publick affairs as necessarily concerns the good of the Army, and advancing this great work now in hand; For the good of Religion, the rescue and reestablishment of the Kings Majestie and the true Peace of the Kingdom. The Committee of Estates according to the Power and Authority wherewith they are entrusted by the Estates of Parliament; Do Prorogate and continue the Monethly Maintenance in that proportion it was first laid on, and that for the space of four moneths, <hi>viz.</hi> From the first day of <hi>October</hi> next to come, till the first day of <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> 1649. And Statutes and Ordains that ilk Shire and Burgh within the Kingdom, are and shall be lyable and ob<g ref="char:EOLhyphen"/>liged in payment of the particular sums of money under<g ref="char:EOLhyphen"/>written for each of the saids four moneths, and that without any suspension or dimunition, and at the times, and in man<g ref="char:EOLhyphen"/>ner afterspecified: And Ordains the same to be payed in to Sir <hi>John Weems</hi> of Bogie Thesaurer of the Army and Commissary Generall of the Kingdom, and to his Deputies and Sub-Collectors appointed by him for receiving there<g ref="char:EOLhyphen"/>of at the termes following: The maintenance of the mo<g ref="char:EOLhyphen"/>neth of <hi>October</hi> betwixt and the sixth day of the said mo<g ref="char:EOLhyphen"/>neth, And the maintenance of the other three moneths betwixt and the tenth day of the saids moneths <hi>re<g ref="char:EOLhyphen"/>spective:</hi> And in regard of the great sums already borrowed on private security, and layed out for the outreik of the Ar<g ref="char:EOLhyphen"/>my and of other incident necessary charges daily occurring for the furtherance of this work: The Committee of Estates for relief and dispatch thereof, do appoint and ordain the Maintenance of the said moneth of <hi>October</hi> to be payed in reall money to the Commissary, without any suspension, al<g ref="char:EOLhyphen"/>lowance or deduction whatsomever.</p>
+            <p>And since it is most just that the Kingdom had relief of
+<pb n="3" facs="tcp:179975:3"/>the hundreth pounds promised for each horse to be put out in this present Levy, and of the ordinary quarterings. The Committee doth declare, that the saids hundreth pounds in the first place, and then the Quarterings due and exacted (conform to the Act of Quarterings of the 22. of <hi>February</hi> 1645. and according to the Establishment hereunto subjoyn<g ref="char:EOLhyphen"/>ed) in the moneths of <hi>October, November, December,</hi> and <hi>January,</hi> shall affect and be allowed in the maintenance of the three moneths of <hi>November, December,</hi> and <hi>January</hi> next to come, And it is hereby declared that no quarterings whatsomever are in any wayes to be allowed to any Shyre untill first the Levie due out of that Shyre, be compleatlie put out and the same attested by the Officers who have the charge thereof; But that these forces who are or shall be raised, be quartered on free quarters on the deficients of the Shire, till the numbers be compleat: And then the hail to be quartered proportionally and equally through the hail Shire by advice and Order of the Committee of the Shire: And in case it shal happen that the forces raised in any Shire be called by publict Order, for the publique service to ano<g ref="char:EOLhyphen"/>ther Shire; then the quartering of these Forces to be allow<g ref="char:EOLhyphen"/>ed in the Maintenance of the aforesaid three moneths; And the Shires whereunto they are called to have their relief out of the Maintenance of these Shires from which they are called. Provided, always likeas it is hereby specially decla<g ref="char:EOLhyphen"/>red, that no allowance of quarterings is to be granted to any Shires or Burghs of the Forces (if any shall happen to be) sent to them, to force them to do their duty in putting out their men; and paying their by-gone Maintenance and o<g ref="char:EOLhyphen"/>therwayes. But that all forces so employed be on Free Quarter, whereof the Shire or Burgh so deficient is to have no relief. And seeing for the most part the deficiency in these
+<pb n="6" facs="tcp:179975:4"/>publict duties, is most in the Heretors and masters: And that it were hard that the poor Tenents and Labourers of the ground should suffer for their Masters fault; It is ordain<g ref="char:EOLhyphen"/>ed that the Free Quarters aforesaid to be raised off any Te<g ref="char:EOLhyphen"/>nents whose Masters and Landlords are deficient &amp; do not concur for advancing of this publict service, shall be allow<g ref="char:EOLhyphen"/>ed and discompted to the Tenent in the first end of the Rent, or duely he is to pay to his Master or Heretor of the ground.</p>
+            <p>
+               <hi>The sums of money due and payable by the Shires and Burghs for each of the saids four moneths, are as followeth.</hi>
+            </p>
+            <q>
+               <pb n="7" facs="tcp:179975:4"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="table_of_maintenance_fees">
+                        <head>Ane Note of the monethly maintenance that is to be payed monethly by the se<g ref="char:EOLhyphen"/>verall Shires after following, <hi>viz.</hi>
+                        </head>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell> </cell>
+                                 <cell>lib.</cell>
+                                 <cell>sh.</cell>
+                                 <cell>d.</cell>
+                              </row>
+                              <row>
+                                 <cell cols="4">
+                                    <hi>Inprimis</hi> for the Shire of</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Orknay</hi>
+                                 </cell>
+                                 <cell>1143</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Innernes</hi>
+                                 </cell>
+                                 <cell>4876</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Caithnes</hi>
+                                 </cell>
+                                 <cell>0945</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Cromartie</hi>
+                                 </cell>
+                                 <cell>0099</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Sutherland</hi>
+                                 </cell>
+                                 <cell>0423</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Nairne</hi>
+                                 </cell>
+                                 <cell>0315</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Elgine</hi>
+                                 </cell>
+                                 <cell>1890</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Aberdeene</hi>
+                                 </cell>
+                                 <cell>6543</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Bamfe</hi>
+                                 </cell>
+                                 <cell>1431</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Kincardine</hi>
+                                 </cell>
+                                 <cell>1566</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Forfare</hi>
+                                 </cell>
+                                 <cell>5004</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Perth</hi>
+                                 </cell>
+                                 <cell>8001</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Fyfe</hi>
+                                 </cell>
+                                 <cell>6642</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Stirling</hi>
+                                 </cell>
+                                 <cell>2538</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Kinross</hi>
+                                 </cell>
+                                 <cell>0144</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Clackmanane</hi>
+                                 </cell>
+                                 <cell>0522</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Edinburgh</hi>
+                                 </cell>
+                                 <cell>4167</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Linlithgow</hi>
+                                 </cell>
+                                 <cell>1746</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Hadingtoun</hi>
+                                 </cell>
+                                 <cell>3384</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Berwick</hi>
+                                 </cell>
+                                 <cell>3555</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Roxburgh</hi>
+                                 </cell>
+                                 <cell>5778</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Selkirk</hi>
+                                 </cell>
+                                 <cell>1278</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Peebles</hi>
+                                 </cell>
+                                 <cell>1638</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Lanerk</hi>
+                                 </cell>
+                                 <cell>5382</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Aire</hi>
+                                 </cell>
+                                 <cell>6066</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Wigtoun</hi> and <hi>Stewartrie</hi> of <hi>Kirkcudbright</hi>
+                                 </cell>
+                                 <cell>4374</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Dumfreis</hi>
+                                 </cell>
+                                 <cell>4446</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Renfrew</hi>
+                                 </cell>
+                                 <cell>2205</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Dumbartane</hi>
+                                 </cell>
+                                 <cell>1233</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Argyle</hi>
+                                 </cell>
+                                 <cell>2907</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Bute</hi>
+                                 </cell>
+                                 <cell>2459</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                           </table>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <pb n="6" facs="tcp:179975:5"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="table_of_fees">
+                        <head>Follows the summs monthly to be payed by the severall Burghs following, <hi>viz.</hi>
+                        </head>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell> </cell>
+                                 <cell>lib.</cell>
+                                 <cell>sh.</cell>
+                                 <cell>d.</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Edinburgh</hi>
+                                 </cell>
+                                 <cell>5175</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Perth</hi>
+                                 </cell>
+                                 <cell>0810</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Dundie</hi>
+                                 </cell>
+                                 <cell>1200</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Aherdeen</hi>
+                                 </cell>
+                                 <cell>1260</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Stirling</hi>
+                                 </cell>
+                                 <cell>0240</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Linlithgow</hi>
+                                 </cell>
+                                 <cell>0324</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Saint-Andrewes</hi>
+                                 </cell>
+                                 <cell>0780</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Glasgow</hi>
+                                 </cell>
+                                 <cell>1530</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Air</hi>
+                                 </cell>
+                                 <cell>0342</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Hadingtoun</hi>
+                                 </cell>
+                                 <cell>0324</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Dysert</hi>
+                                 </cell>
+                                 <cell>0270</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Kirkaldie</hi>
+                                 </cell>
+                                 <cell>0600</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Dumfirmling</hi>
+                                 </cell>
+                                 <cell>162</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Dumbartane</hi>
+                                 </cell>
+                                 <cell>162</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Renfrew</hi>
+                                 </cell>
+                                 <cell>090</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Lanerk</hi>
+                                 </cell>
+                                 <cell>162</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Aberbrothock</hi>
+                                 </cell>
+                                 <cell>081</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Bruntiland</hi>
+                                 </cell>
+                                 <cell>216</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Peebles</hi>
+                                 </cell>
+                                 <cell>108</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Crail</hi>
+                                 </cell>
+                                 <cell>216</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Kinghorne</hi>
+                                 </cell>
+                                 <cell>108</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Tayne</hi>
+                                 </cell>
+                                 <cell>090</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Selkirk</hi>
+                                 </cell>
+                                 <cell>126</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Anstruther</hi> wester</cell>
+                                 <cell>054</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Culrosse</hi>
+                                 </cell>
+                                 <cell>090</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Dumbar</hi>
+                                 </cell>
+                                 <cell>180</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Bamff</hi>
+                                 </cell>
+                                 <cell>072</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Whithorne</hi>
+                                 </cell>
+                                 <cell>045</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Forfar</hi>
+                                 </cell>
+                                 <cell>027</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Monross</hi>
+                                 </cell>
+                                 <cell>324</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Cowper</hi>
+                                 </cell>
+                                 <cell>216</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Anstruther</hi>
+                                 </cell>
+                                 <cell>180</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Dumfreis</hi>
+                                 </cell>
+                                 <cell>270</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Innernes</hi>
+                                 </cell>
+                                 <cell>450</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Brechen</hi>
+                                 </cell>
+                                 <cell>120</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Irwing</hi>
+                                 </cell>
+                                 <cell>252</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Elgine</hi>
+                                 </cell>
+                                 <cell>135</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Jedburgh</hi>
+                                 </cell>
+                                 <cell>126</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Kirkcudbright</hi>
+                                 </cell>
+                                 <cell>180</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Wigtoun</hi>
+                                 </cell>
+                                 <cell>135</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Pettinweem</hi>
+                                 </cell>
+                                 <cell>120</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Rothesay</hi>
+                                 </cell>
+                                 <cell>060</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Forres</hi>
+                                 </cell>
+                                 <cell>054</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Rutherglen</hi>
+                                 </cell>
+                                 <cell>045</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Northberrick</hi>
+                                 </cell>
+                                 <cell>036</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Cullane</hi>
+                                 </cell>
+                                 <cell>027</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Nairne</hi>
+                                 </cell>
+                                 <cell>036</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Lawder</hi>
+                                 </cell>
+                                 <cell>045</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Innerkeithing</hi>
+                                 </cell>
+                                 <cell>90</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Kilrine</hi>
+                                 </cell>
+                                 <cell>027</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Annan</hi>
+                                 </cell>
+                                 <cell>030</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Lochmaben</hi>
+                                 </cell>
+                                 <cell>018</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Sanquhar</hi>
+                                 </cell>
+                                 <cell>027</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Galloway</hi>
+                                 </cell>
+                                 <cell>018</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Dingwall</hi>
+                                 </cell>
+                                 <cell>018</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Queensferrie</hi>
+                                 </cell>
+                                 <cell>108</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Dornoch</hi>
+                                 </cell>
+                                 <cell>018</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                           </table>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="7" facs="tcp:179975:5"/>
+            <p> The in-bringing and collecting whereof, the Committee of Estates doth hereby recommend and entrust to the said Sir <hi>John Weemes</hi> of Bogie, and his Deputies Collectors of Shires and Parishes, Clerks to Shires, and Clerk to the Maintenance, (who are to have the same proportionable allowance and fee for this foure moneths, as is by Act of Parliament of the 9. of May last allowed for the last five moneths, and to be up lifted in the same manner:) And or<g ref="char:EOLhyphen"/>dains Letters of Horning to be directed hereupon for pay<g ref="char:EOLhyphen"/>ment of this maintenance, at the instance of the said Sir <hi>John Weemes</hi> and Collectors aforesaid against the Sub-col<g ref="char:EOLhyphen"/>lectors of Shires, Magistrates of Burghs, Collectors of Pa<g ref="char:EOLhyphen"/>rishes, Heretors, Fewers, Liferenters, and others addebted in payment of their severall proportions of this mainte<g ref="char:EOLhyphen"/>nance now imposed. And ordains the Sub-collectors, Col<g ref="char:EOLhyphen"/>lectors of Parishes, Magistrates of Burrows, and others so to be charged by the Generall Commissary, to have Letters of relief, as is ordained by the Act for the Taxt and Loan. And for the more speedie ingathering of the saids four mo<g ref="char:EOLhyphen"/>neths maintenance at the termes of payment above-written, The Generall Commissar is hereby warranted if any Shire or Burgh be deficient in payment of their parts of this main<g ref="char:EOLhyphen"/>tenance at the times aforesaid, he either imploy some of his own troup, or any other of the Forces that shall happen to be on the bounds for the time, for up-lifting of this mainte<g ref="char:EOLhyphen"/>nance from the Deficients, Burghs and Parishes, whilks Forces are to receive their entertainment off the Deficients at the ordinar Rates besides the payment of the maintenance as aforesaid. And it is hereby Ordained, that the Commit<g ref="char:EOLhyphen"/>tees of Warre be aiding and assisting to the Commissar Ge<g ref="char:EOLhyphen"/>nerall herein.</p>
+            <p>And it is hereby Ordained, That no Retention, Suspen<g ref="char:EOLhyphen"/>sion,
+<pb n="8" facs="tcp:179975:6"/>nor discharge of this present maintenance, be granted for any cause other than is above-written, except for the hundreth pounds allowed in the Levie and quarterings, in manner before exprest, and for the Lands, Rents, Annual<g ref="char:EOLhyphen"/>rents, and other duties mortified in Colledges, Schooles, Hospitals, Ministers and School-masters stipends, and for upholding Kirks and Burghs. Whilks mortifications are to be deduced in each Shire. But notwithstanding the Shire to be lyable in payment of their haill maintenance. And that all Heretors, Life-renters, Taksmen, Titulars, proper Wod<g ref="char:EOLhyphen"/>setters, Pensioners, Conjunct-fiars, Lady-tercers, and others subject to the Valuation within Shires and Burghs, shall be lyable to their proportionall part of this maintenance: Not<g ref="char:EOLhyphen"/>withstanding of any Act past or to be past in their favours, other nor what is above set down.</p>
+            <p>And in regard of this prorogating of the maintenance on the Shires and Burghs for the four moneths above-mentio<g ref="char:EOLhyphen"/>ned, It is statute and Ordained by the Committee of Estates, that every Debter shall have Retention from the Creditors of ane and ane half of each eight Pannall for annual-rent for the saids foure moneths. So that the Debter shall onely be lyable in payment, according to six and a half for each hun<g ref="char:EOLhyphen"/>dreth of stock for these four moneths. With this provision, that no Debter shall have the benefit of Retention who shal not pay his annual-rent to his Creditor within the space of ane year, after that ane preceeding years annualrent is restand unpayed.</p>
+            <p>And lastly it is ordained, that no Suspensions be granted without consignation, as is appointed by Act of Parliament 27. February 1645. And that all Heritors within Burgh, Liberties and Pendicles thereof (encluding for <hi>Edinburgh</hi> as Pendicles of the same; the Houses, Tenements &amp; Yards, in
+<pb n="9" facs="tcp:179975:6"/>
+               <hi>Leith, Cannogate</hi> and <hi>Pleasants,</hi> whereof the Town is either superior or proprietur, and for the other Burrows all that have been in use to be taxt by them) shal contribute for pay<g ref="char:EOLhyphen"/>ment of the Maintenance, as is mentioned in the said Act 27. <hi>February</hi> 1645. And that the payment of this mainte<g ref="char:EOLhyphen"/>nance be als equal and proportionable as may be: The Com<g ref="char:EOLhyphen"/>mittee Ordains the Valuers in the severall Shires, already named or to be named, to meet, revise and rectifie the va<g ref="char:EOLhyphen"/>luation of the Shires. Provided that notwithstanding of this tryall, the Shires and Burghs be lyable in payment to the Commissar General of the haill sums above-mentioned, layd on them by this Act.</p>
+            <p>And Ordains the Lands and Teinds to pay the mainte<g ref="char:EOLhyphen"/>nance as they lye locally in the Shires or Burghs. And this Act to be without prejudice of the Priviledge of the Lords of Session, conform to former Acts of Maintenance.</p>
+            <p>
+               <hi>Follows the establishment of the Pay of the Forces to be kept within this Kingdome.</hi>
+            </p>
+            <q>
+               <pb n="10" facs="tcp:179975:7"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="table_of_pay">
+                        <head>Establishment for the entertainment of the Forces within this Kingdom.</head>
+                        <head type="sub">The Colonels, Lievtenant Colonels, Majors, Rutmasters and Captains, are to have no pay nor quarters du<g ref="char:EOLhyphen"/>ring their stay within the Kingdom.</head>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell>Regiment Quartermast.</cell>
+                                 <cell>45</cell>
+                              </row>
+                              <row>
+                                 <cell>Chirurgion</cell>
+                                 <cell>45</cell>
+                              </row>
+                              <row>
+                                 <cell>Drummer Major</cell>
+                                 <cell>18</cell>
+                              </row>
+                              <row>
+                                 <cell>Regiment Scriver</cell>
+                                 <cell>30</cell>
+                              </row>
+                              <row>
+                                 <cell>Provest Marshall</cell>
+                                 <cell>18</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Lievtenant</cell>
+                                 <cell>45</cell>
+                              </row>
+                              <row>
+                                 <cell>Ensigne</cell>
+                                 <cell>36</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Sergeant</cell>
+                                 <cell>15</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Corporall</cell>
+                                 <cell>12</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Captain at Arms</cell>
+                                 <cell>15</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Drummer</cell>
+                                 <cell>12</cell>
+                              </row>
+                              <row>
+                                 <cell>Each foot sold .4 sh. <hi>per diem. inde per mensem</hi>
+                                 </cell>
+                                 <cell>6 lib.</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Lievt. of Horse</cell>
+                                 <cell>67 10</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Coronet</cell>
+                                 <cell>54</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Quartermaster</cell>
+                                 <cell>45</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Corporall</cell>
+                                 <cell>36</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Smith</cell>
+                                 <cell>27</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Trumpetter</cell>
+                                 <cell>30</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Trouper 12 sh. <hi>per diem.</hi> is <hi>per mensem</hi>
+                                 </cell>
+                                 <cell>18 lib.</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Liev. of Drag.</cell>
+                                 <cell>56 5</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Ensigne</cell>
+                                 <cell>45 0</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Sergeant</cell>
+                                 <cell>25 10</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Corporall</cell>
+                                 <cell>22 10</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Drummer</cell>
+                                 <cell>22 10</cell>
+                              </row>
+                              <row>
+                                 <cell>Each Dragoner at 9 sh. <hi>per diem,</hi> is <hi>per mensem</hi>
+                                 </cell>
+                                 <cell>13 l. 10</cell>
+                              </row>
+                           </table>
+                        </p>
+                        <p>Extracted out of the Records of the Committee of E<g ref="char:EOLhyphen"/>states by Sir <hi>Archibald Primerose,</hi> Clerk to the said Com<g ref="char:EOLhyphen"/>mittee.</p>
+                        <closer>
+                           <signed>Arch. Primerose.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+   </text>
+</TEI>
